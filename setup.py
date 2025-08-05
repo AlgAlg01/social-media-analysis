@@ -3,12 +3,11 @@ from setuptools import setup, find_packages
 setup(
     name="social-media-analysis",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="G/Ker(f)≅Im(f)",
     description="A tool for analyzing social media trends and content performance",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/social-media-analysis",
+    url="https://github.com/AlgAlg01/social-media-analysis",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
